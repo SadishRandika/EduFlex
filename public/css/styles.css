@@ -6,6 +6,9 @@
 @import url('feedbackStyles.css');
 @import url('loginStyles.css');
 @import url('forgotPasswordStyles.css');
+@import url('components/adminActivityStyle.css');
+@import url('components/insert_actor_style.css');
+@import url('components/view_user_table.css');
 
 :root {
     /* Colors */
